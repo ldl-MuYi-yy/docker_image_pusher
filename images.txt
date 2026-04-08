@@ -1,4 +1,1 @@
-liferay/jdk11
-openkbs/jdk11-mvn-py3
-hengyunabc/arthas
-nikolaik/python-nodejs:python3.10-nodejs14
+ivorysql/ivorysql:4.6-ubi8
