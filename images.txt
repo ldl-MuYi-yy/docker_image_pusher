@@ -1,1 +1,1 @@
-ivorysql/ivorysql:4.6-ubi8
+thingsboard/openjdk11:bullseye-slim
