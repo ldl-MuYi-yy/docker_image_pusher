@@ -1,1 +1,1 @@
-thingsboard/node:16.17.0-bullseye-slim
+thingsboard/node:18.20.4-bookworm-slim
