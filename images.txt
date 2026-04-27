@@ -1,2 +1,1 @@
-thingsboard/openjdk11:bullseye-slim
-thingsboard/node:20.18.0-bookworm-slim
+thingsboard/node:16.17.0-bullseye-slim
